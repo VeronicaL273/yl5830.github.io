@@ -1,0 +1,20 @@
+---
+title: "awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+
+## This is Veronica's website
+
+![](./image/wizoor_0518.jpeg)
+
+<img src="image/wizoor_0518.jpeg" style="width:30%">
+
+Sometimes I use [google](http://www.google.com/) to fo data science.
+
+You can check the [this website](about.html) for the total idea of the page.
+

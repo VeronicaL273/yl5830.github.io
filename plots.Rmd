@@ -1,0 +1,21 @@
+---
+title: "plots"
+author: "Yunjia Liu"
+date: "2024-10-17"
+output: html_document
+---
+# Here are some plots
+
+You can make plots in the same way as always
+
+```{r message=FALSE}
+library(tidyverse)
+
+df = tibble(
+  x = rnorm(100,2,5),
+  y = 1+2*x+x^2
+)
+
+plot(df)
+```
+
